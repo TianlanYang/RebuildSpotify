@@ -1,0 +1,7 @@
+DerivedData/
+*.xcuserdata
+*.swp
+*.lock
+.DS_Store
+xcuserdata/
+
